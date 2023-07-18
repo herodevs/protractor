@@ -1,5 +1,5 @@
 {
-  "name": "protractor",
+  "name": "@herodevs/protractor",
   "description": "Webdriver E2E test wrapper for Angular.",
   "version": "7.0.0",
   "homepage": "https://github.com/herodevs/protractor",
@@ -11,7 +11,7 @@
     "webdriverjs",
     "selenium"
   ],
-  "author": "Julie Ralph <ju.ralph@gmail.com>",
+  "author": "HeroDevs <hi@herodevs.com>",
   "dependencies": {
     "@types/q": "^0.0.32",
     "@types/selenium-webdriver": "^3.0.0",
