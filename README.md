@@ -1,14 +1,14 @@
-Protractor [![Build Status](https://travis-ci.org/angular/protractor.svg?branch=master)](https://travis-ci.org/angular/protractor) [![CircleCI Status](https://circleci.com/gh/angular/protractor.svg?style=shield)](https://circleci.com/gh/angular/protractor) [![Join the chat at https://gitter.im/angular/protractor](https://badges.gitter.im/angular/protractor.svg)](https://gitter.im/angular/protractor)
+NES Protractor 
 ==========
 
-[Protractor](http://angular.github.io/protractor) is an end-to-end test framework for [Angular](http://angular.io/) and [AngularJS](http://angularjs.org) applications. Protractor is a [Node.js](http://nodejs.org/) program built on top of [WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs). Protractor runs tests against your application running in a real browser, interacting with it as a user would.
+[Protractor](http://angular.github.io/protractor) is an end-to-end test framework for applications built with frameworks like [Angular](http://angular.io/), [AngularJS](http://angularjs.org) and more. 
+
+Protractor is a [Node.js](http://nodejs.org/) program built on top of [WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs). Protractor runs tests against your application running in a real browser, interacting with it as a user would.
+
+Protractor reached End Of Life in August 2023, with [HeroDevs](https://www.herodevs.com) extending support for an additional year through it's [Never Ending Support](https://www.herodevs.com/support/nes-protractor) OSS Support initiative. Contact HeroDevs to learn more. 
 
 Compatibility
 -------------
-
-Protractor 5 is compatible with Nodejs v6 and v8 only.
-
-Protractor 6 has been deprecated.
 
 Protractor 7 is compatible with Nodejs v10, v12, and newer.
 

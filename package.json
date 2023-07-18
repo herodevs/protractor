@@ -2,7 +2,7 @@
   "name": "protractor",
   "description": "Webdriver E2E test wrapper for Angular.",
   "version": "7.0.0",
-  "homepage": "https://github.com/angular/protractor",
+  "homepage": "https://github.com/herodevs/protractor",
   "keywords": [
     "angular",
     "test",
@@ -61,7 +61,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular/protractor.git"
+    "url": "git://github.com/herodevs/protractor.git"
   },
   "bin": {
     "protractor": "bin/protractor",
@@ -79,7 +79,7 @@
     "website": "cd website && npm start",
     "compile_to_es5": "gulp compile_to_es5"
   },
-  "license": "MIT",
+  "license": "HeroDevs FOSS",
   "engines": {
     "node": ">=10.13.x"
   }

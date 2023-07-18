@@ -1,3 +1,42 @@
+# This project contains IP governed by two licenses.
+
+This project originated from the Open Source contributions of `Google` & `the Protractor community`, which is licensed
+under the `MIT License`. As such, all unmodified code and materials are subject to the terms, conditions, and any other 
+stipulation associated with Protractor's MIT License. You can learn more at [https://github.com/angular/protractor](https://github.com/angular/protractor).
+
+All other materials, including new files or modifications to existing files (`Updates`) are original works of `HeroDevs, Inc.` and licensed under 
+the `HeroDevs FOSS License`. Much like the MIT License, these `Updates` are provided as-is, without warranty of any kind. 
+
+Contact [support@herodevs.com](mailto:support@herodevs.com) to learn more. 
+
+# HeroDevs FOSS License
+
+
+HeroDevs FOSS License
+
+Copyright (c) 2023 HeroDevs, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+# Protractor
+
 The MIT License
 
 Copyright (c) 2010-2017 Google, Inc.
